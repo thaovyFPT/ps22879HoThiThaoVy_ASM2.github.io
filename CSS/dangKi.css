@@ -4,7 +4,7 @@
    font-family: 'Noto Sans JP', sans-serif;
  }
  h1, label{
-   color: DodgerBlue;
+   color: rgb(214, 150, 214);
  }
    input[type=text], input[type=password] {
    width: 100%;
@@ -12,7 +12,7 @@
    margin: 5px 0 22px 0;
    display: inline-block;
    border: none;
-   width:100%;
+   width:80%;
    resize: vertical;
    padding:15px;
    border-radius:15px;
@@ -27,7 +27,7 @@ hr {
    margin-bottom: 25px;
  }
 button {
-   background-color: #4CAF50;
+   background-color: rgb(160, 113, 160);
    color: white;
    padding: 14px 20px;
    margin: 8px 0;
